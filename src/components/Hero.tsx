@@ -25,7 +25,7 @@ export default function Hero() {
                             Introducing Trilolink
                         </span>
                         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight text-slate-900 mb-8 max-w-4xl mx-auto">
-                            Smart QR Reward Platform for <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-brand-400">Businesses</span>
+                            Smart QR Reward Platform for <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-700 via-brand-800 to-[hsl(225deg_41.29%_64.2%)]">Businesses</span>
                         </h1>
                         <p className="text-xl md:text-2xl text-slate-600 max-w-2xl mx-auto mb-10">
                             Generate product QR codes, manage scan-based subscriptions, and reward your customers through a seamless digital wallet.

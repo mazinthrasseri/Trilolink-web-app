@@ -6,7 +6,7 @@ import Link from 'next/link';
 const plans = [
     {
         name: 'Bronze Plan',
-        price: '$29',
+        price: '₹2,499',
         period: '/mo',
         description: 'Perfect for small businesses starting with QR rewards.',
         quota: 'Up to 5,000 scans/mo',
@@ -21,7 +21,7 @@ const plans = [
     },
     {
         name: 'Silver Plan',
-        price: '$79',
+        price: '₹6,499',
         period: '/mo',
         description: 'Ideal for growing brands with higher engagement needs.',
         quota: 'Up to 50,000 scans/mo',
@@ -37,7 +37,7 @@ const plans = [
     },
     {
         name: 'Gold Plan',
-        price: '$199',
+        price: '₹14,999',
         period: '/mo',
         description: 'For enterprises requiring unlimited scale and features.',
         quota: 'Unlimited scans',
